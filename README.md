@@ -25,7 +25,7 @@
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,azure,kubernetes,docker,terraform,postgres,redis,elasticsearch,react,ts,nodejs,vite,nginx,linux,git,githubactions,powershell&amp;theme=dark&amp;perline=19" width="100%" alt="C#, .NET, AWS, Azure, Kubernetes, Docker, Terraform, PostgreSQL, Redis, Elasticsearch, React, TypeScript, Node.js, Vite, Nginx, Linux, Git, GitHub Actions, and PowerShell" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,aws,azure,kubernetes,docker,terraform,postgres,redis,elasticsearch,react,ts,nodejs,vite,nginx,linux,git,githubactions,powershell&amp;theme=dark&amp;perline=20" width="100%" alt="C#, .NET, Python, AWS, Azure, Kubernetes, Docker, Terraform, PostgreSQL, Redis, Elasticsearch, React, TypeScript, Node.js, Vite, Nginx, Linux, Git, GitHub Actions, and PowerShell" />
 </p>
 
 <p>
