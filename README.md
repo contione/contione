@@ -25,7 +25,12 @@
 ## Toolbox
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,docker,postgres,redis,git,githubactions,powershell&theme=dark" alt="C#, .NET, AWS, Docker, PostgreSQL, Redis, Git, GitHub Actions, and PowerShell" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,azure,kubernetes,docker,terraform,postgres,redis,elasticsearch,react,ts,nodejs,vite,nginx,linux,git,githubactions,powershell&amp;theme=dark&amp;perline=10" alt="C#, .NET, AWS, Azure, Kubernetes, Docker, Terraform, PostgreSQL, Redis, Elasticsearch, React, TypeScript, Node.js, Vite, Nginx, Linux, Git, GitHub Actions, and PowerShell" />
+</p>
+
+<p>
+  <a href="https://aws.amazon.com/eks/"><img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&amp;logo=amazoneks&amp;logoColor=white" alt="Amazon EKS" /></a>
+  <a href="https://azure.microsoft.com/products/kubernetes-service"><img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure Kubernetes Service" /></a>
 </p>
 
 <p>
