@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.contione.cn"><img src="https://img.shields.io/badge/Website-contione.cn-19d3c5?style=flat-square&labelColor=111820" alt="Website" /></a>
-  <img src="https://img.shields.io/badge/Based_in-Beijing-f2745f?style=flat-square&labelColor=111820" alt="Based in Beijing" />
+  <img src="https://img.shields.io/badge/Based_in-Shanghai-f2745f?style=flat-square&labelColor=111820" alt="Based in Shanghai" />
   <img src="https://img.shields.io/badge/Focus-Agentic_AI-35d07f?style=flat-square&labelColor=111820" alt="Focus: Agentic AI" />
   <img src="https://img.shields.io/badge/Stack-.NET_%7C_C%23-58a6ff?style=flat-square&labelColor=111820" alt="Stack: .NET and C#" />
 </p>
