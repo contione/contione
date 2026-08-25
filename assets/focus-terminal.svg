@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 116" role="img" aria-labelledby="title desc">
+  <title id="title">Contione current engineering focus</title>
+  <desc id="desc">An animated terminal cycling through Agentic AI, Distributed .NET, Workflow Engines, and Developer Tooling.</desc>
+
+  <style>
+    .label {
+      font: 13px Consolas, Menlo, Monaco, monospace;
+      fill: #78969d;
+    }
+    .prompt {
+      font: 600 23px Consolas, Menlo, Monaco, monospace;
+      fill: #d8f3f2;
+    }
+    .value {
+      font: 600 23px Consolas, Menlo, Monaco, monospace;
+      fill: #25d8c8;
+    }
+    .item {
+      opacity: 0;
+      animation: cycle 12s ease-in-out infinite;
+    }
+    .item-2 { animation-delay: 3s; }
+    .item-3 { animation-delay: 6s; }
+    .item-4 { animation-delay: 9s; }
+    .cursor {
+      fill: #f2745f;
+      animation: blink 0.8s steps(1, end) infinite;
+    }
+    .scan {
+      animation: scan 4.5s linear infinite;
+    }
+    .pulse {
+      animation: pulse 2.2s ease-in-out infinite;
+      transform-origin: center;
+    }
+    @keyframes cycle {
+      0% { opacity: 0; transform: translateY(5px); }
+      5%, 21% { opacity: 1; transform: translateY(0); }
+      25%, 100% { opacity: 0; transform: translateY(-5px); }
+    }
+    @keyframes blink {
+      0%, 48% { opacity: 1; }
+      49%, 100% { opacity: 0; }
+    }
+    @keyframes scan {
+      from { transform: translateX(-180px); }
+      to { transform: translateX(1100px); }
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.35; }
+      50% { opacity: 1; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .item, .cursor, .scan, .pulse { animation: none; }
+      .item { opacity: 0; }
+      .item-1 { opacity: 1; }
+    }
+  </style>
+
+  <defs>
+    <clipPath id="panel-clip">
+      <rect x="1" y="1" width="998" height="114" rx="7" />
+    </clipPath>
+    <linearGradient id="scan-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#25d8c8" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#25d8c8" stop-opacity="0.12" />
+      <stop offset="1" stop-color="#25d8c8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="998" height="114" rx="7" fill="#0b141b" stroke="#1e3d45" />
+  <path d="M1 35.5H999" stroke="#1e3d45" />
+
+  <circle cx="22" cy="18" r="4" fill="#f2745f" />
+  <circle cx="38" cy="18" r="4" fill="#e7bd55" />
+  <circle cx="54" cy="18" r="4" fill="#35d07f" />
+  <text x="76" y="23" class="label">profile://contione/current-focus</text>
+
+  <g clip-path="url(#panel-clip)">
+    <rect class="scan" x="-180" y="36" width="180" height="79" fill="url(#scan-gradient)" />
+  </g>
+
+  <circle class="pulse" cx="44" cy="77" r="5" fill="#25d8c8" />
+  <text x="65" y="85" class="prompt">&gt; CURRENT_FOCUS:</text>
+
+  <g class="item item-1">
+    <text x="315" y="85" class="value">AGENTIC AI</text>
+    <rect x="472" y="64" width="10" height="25" rx="1" class="cursor" />
+  </g>
+  <g class="item item-2">
+    <text x="315" y="85" class="value">DISTRIBUTED .NET</text>
+    <rect x="563" y="64" width="10" height="25" rx="1" class="cursor" />
+  </g>
+  <g class="item item-3">
+    <text x="315" y="85" class="value">WORKFLOW ENGINES</text>
+    <rect x="563" y="64" width="10" height="25" rx="1" class="cursor" />
+  </g>
+  <g class="item item-4">
+    <text x="315" y="85" class="value">DEVELOPER TOOLING</text>
+    <rect x="577" y="64" width="10" height="25" rx="1" class="cursor" />
+  </g>
+
+  <path d="M820 77h31l10-14 14 28 12-14h69" fill="none" stroke="#25d8c8" stroke-opacity="0.35" stroke-width="1.5" />
+  <circle cx="956" cy="77" r="3" fill="#35d07f" />
+</svg>

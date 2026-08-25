@@ -18,11 +18,9 @@
 
 ## Current focus
 
-```text
-01  Agentic AI          Tool use, context, orchestration, and reliable automation
-02  Distributed .NET    Data access, workflows, messaging, and service boundaries
-03  Developer tooling   Practical tools that shorten the path from idea to delivery
-```
+<p align="center">
+  <img src="./assets/focus-terminal.svg" width="100%" alt="Current focus: Agentic AI, Distributed .NET, Workflow Engines, and Developer Tooling" />
+</p>
 
 ## Toolbox
 
