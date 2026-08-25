@@ -28,6 +28,12 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,docker,postgres,redis,git,githubactions,powershell&theme=dark" alt="C#, .NET, AWS, Docker, PostgreSQL, Redis, Git, GitHub Actions, and PowerShell" />
 </p>
 
+<p>
+  <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /></a>
+  <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
+  <a href="https://github.com/badlogic/pi-mono"><img src="https://img.shields.io/badge/Pi_Coding_Agent-F2C94C?style=flat-square&logo=gnometerminal&logoColor=111820" alt="Pi Coding Agent" /></a>
+</p>
+
 ```csharp
 public sealed record EngineeringStyle(
     bool ClearBoundaries = true,
