@@ -31,6 +31,7 @@
 <p>
   <a href="https://aws.amazon.com/eks/"><img src="https://img.shields.io/badge/Amazon_EKS-FF9900?style=flat-square&amp;logo=amazoneks&amp;logoColor=white" alt="Amazon EKS" /></a>
   <a href="https://azure.microsoft.com/products/kubernetes-service"><img src="https://img.shields.io/badge/Azure_AKS-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white" alt="Azure Kubernetes Service" /></a>
+  <a href="https://github.com/contione?tab=repositories"><img src="https://img.shields.io/badge/DevOps-2088FF?style=flat-square&amp;logo=azuredevops&amp;logoColor=white" alt="DevOps" /></a>
   <a href="https://github.com/anthropics/claude-code"><img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /></a>
   <a href="https://github.com/openai/codex"><img src="https://img.shields.io/badge/OpenAI_Codex-10A37F?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" /></a>
   <a href="https://github.com/badlogic/pi-mono"><img src="https://img.shields.io/badge/Pi_Coding_Agent-F2C94C?style=flat-square&logo=gnometerminal&logoColor=111820" alt="Pi Coding Agent" /></a>
